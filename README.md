@@ -43,4 +43,7 @@
 
 - product 마이페이지 기능구현 1차 완료 (조회)
 # LotteON
+![image](https://github.com/saii12/LotteON/assets/136421972/ddf0274e-e7f8-46c9-b3c6-a7f6399a922b)
+
+
 # LotteON
